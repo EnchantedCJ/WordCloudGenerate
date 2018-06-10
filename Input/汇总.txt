@@ -1,0 +1,40 @@
+PBEE
+Resilience
+Emergence response
+Disaster chain
+Design optimization
+Urban planning
+Evacuation
+RC frame
+Masonry
+Adobe
+Timber
+Tall building
+Fire following earthquake
+Fall debris
+Structural dynamic
+Site-city interaction
+Collapse
+Damage state
+Spectral element
+Fiber beam
+Multi-layer shell
+Fishbone 
+OpenSees
+Uncertainty
+Monte Carlo
+FOSM
+BIM & CIM
+Multi-LOD
+Greedy strategy
+Computational graphics
+High-performance computing
+Distributed computing
+GPU computing
+Data mining
+Machine learning
+Virtual reality
+GIS
+CFD
+UAV
+Oblique photography

@@ -52,6 +52,7 @@ def main():
                               colormap=config['colormap'],
                               width=int(config['width']),
                               height=int(config['height']),
+							  relative_scaling=float(config['relative_scaling'])
                               )
         wordcloud.generate_from_frequencies(dict)
         plt.imshow(wordcloud)
