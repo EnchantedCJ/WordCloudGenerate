@@ -18,7 +18,7 @@ Author: CJ
 	- font_path: str, 字体路径
 	- background_color: str, 背景颜色
 	- prefer_horizontal: float, 水平文字频率
-	- colormap: str, 配色(https://matplotlib.org/examples/color/colormaps_reference.html)
+	- colormap: str, [配色](https://matplotlib.org/examples/color/colormaps_reference.html)
 	- width: int, 图片宽度
 	- height: int, 图片高度
 	- relative_scaling: float, 取0按顺序线性变化大小，取1大小离散最大
